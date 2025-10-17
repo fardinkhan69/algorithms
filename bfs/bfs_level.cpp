@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-
+// been a long time haven't use bfs dfs
 using namespace std;
 vector<int> v[1005];
 bool vis[1005];
